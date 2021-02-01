@@ -1,2 +1,2 @@
 # SennaLabs6
-SennaLabs5
+SennaLabs6
